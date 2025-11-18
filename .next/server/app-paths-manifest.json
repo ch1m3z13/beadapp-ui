@@ -1,8 +1,11 @@
 {
   "/home-dashboard/page": "app/home-dashboard/page.js",
-  "/projects-list/page": "app/projects-list/page.js",
-  "/settings/page": "app/settings/page.js",
   "/_not-found/page": "app/_not-found/page.js",
+  "/api/cron-notifications/route": "app/api/cron-notifications/route.js",
+  "/api/update/route": "app/api/update/route.js",
+  "/api/watchlist/route": "app/api/watchlist/route.js",
   "/add-project/page": "app/add-project/page.js",
-  "/project-detail/page": "app/project-detail/page.js"
+  "/project-detail/page": "app/project-detail/page.js",
+  "/projects-list/page": "app/projects-list/page.js",
+  "/settings/page": "app/settings/page.js"
 }

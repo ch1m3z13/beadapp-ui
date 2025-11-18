@@ -1,4 +1,4 @@
-// File: /mnt/c/Users/odov/software/bead-app/beadapp/src/app/projects-list/page.tsx
+// File: /mnt/c/Users/odov/software/bead-integrated/beadapp-ui/src/app/projects-list/page.tsx
 import * as entry from '../../../../src/app/projects-list/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
